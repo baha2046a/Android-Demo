@@ -1,5 +1,30 @@
-# TMDB
+# Code challenge - Frontend
 
-Progress on Day one: [TMDB API](https://github.com/baha2046a/TMDB/blob/master/TMDB%20API.pdf)
+[App Design Spec](https://github.com/monstar-lab-technical-challenge/ml-mobile-test-ericchan/blob/main/TMDB%20Design%20Spec.pdf)
 
-(Files contain API Key is removed)
+[Documentation (Class)](https://github.com/monstar-lab-technical-challenge/ml-mobile-test-ericchan/blob/main/Documentation-Class.pdf)
+
+[Documentation (UI)](https://github.com/monstar-lab-technical-challenge/ml-mobile-test-ericchan/blob/main/Documentation-UI.pdf)
+
+With the light weight RecycleView, fragment handle by new ViewPage2, 
+
+This app can display easily display few hundred result as a flow.
+
+By the FlexboxLayoutManager, result can fit to different screen size and orientation.
+
+Most control can done by swipe in one hand.
+
+Meet all requirements of Google Play Instant: Technical requirements checklist
+
+<img src="screenshot/v2.gif" alt="" title="" width="180" height="386"> 
+
+## User Guide
+
+Touch Search Icon on toolbar to make a search
+
+Touch result movie's title to view movie's detail
+
+Touch result "Heart" icon to add to favorite or remove it from favorite
+
+
+<img src="screenshot/Screenshot_1616877062.png" alt="" title="" width="270" height="555">  <img src="screenshot/Screenshot_1616870417.png" alt="" title="" width="270" height="555"> <img src="screenshot/Screenshot_1616877181.png" alt="" title="" width="270" height="555"> <img src="screenshot/Screenshot_1616877264.png" alt="" title="" width="270" height="555"> <img src="screenshot/Screenshot_1616877285.png" alt="" title="" width="270" height="555"> <img src="screenshot/Screenshot_1616823667.png" alt="" title="" width="270" height="555"> <img src="screenshot/v1.gif" alt="" title="" width="270" height="579"> <img src="screenshot/Screenshot_1616823436.png" alt="" title="" width="555" height="270">
